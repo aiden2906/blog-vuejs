@@ -1,0 +1,57 @@
+[
+  {
+    "name": "React",
+    "backgroundColor": "#282c34",
+    "color": "#61dafb"
+  },
+  {
+    "name": "CSS",
+    "backgroundColor": "#bc70a4",
+    "color": "white"
+  },
+  {
+    "name": "Git",
+    "backgroundColor": "#dd4132",
+    "color": "white"
+  },
+  {
+    "name": "Docker",
+    "backgroundColor": "#0E65C9",
+    "color": "white"
+  },
+  {
+    "name": "Javascript",
+    "backgroundColor": "#ecdb54",
+    "color": "black"
+  },
+  {
+    "name": "Node.js",
+    "backgroundColor": "#026e00",
+    "color": "white"
+  },
+  {
+    "name": "Vue.js",
+    "backgroundColor": "#00a591",
+    "color": "white"
+  },
+  {
+    "name": "Express",
+    "backgroundColor": "#b565a7",
+    "color": "white"
+  },
+  {
+    "name": "Database",
+    "backgroundColor": "#95dee3",
+    "color": "black"
+  },
+  {
+    "name": "CLI",
+    "backgroundColor": "#000",
+    "color": "white"
+  },
+  {
+    "name": "Web Platform",
+    "backgroundColor": "#5b5ea6",
+    "color": "white"
+  }
+]
