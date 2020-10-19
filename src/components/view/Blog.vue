@@ -61,7 +61,9 @@ export default {
 
 .card {
   padding: 30px;
+  font-family: 'Commissioner', sans-serif;
   border-bottom: 2px dotted black;
   cursor: pointer;
+
 }
 </style>

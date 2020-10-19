@@ -43,5 +43,6 @@ export default {
   width: max-content;
   margin: 10px 3px;
   cursor: pointer;
+  font-family: 'Commissioner', sans-serif;
 }
 </style>
