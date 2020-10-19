@@ -1,6 +1,6 @@
 <template>
   <div :style="{ width: '100%', padding: '60px' }" class="markdown-body">
-    <vue-markdown :source="article" :html="true" class="custom-markdown"></vue-markdown>
+    <vue-markdown :source="article" :html="true"></vue-markdown>
   </div>
 </template>
 <script>
@@ -35,8 +35,5 @@ export default {
   .markdown-body {
     padding: 15px;
   }
-}
-.custom-markdown {
-  font-family: 'Commissioner', sans-serif;
 }
 </style>
