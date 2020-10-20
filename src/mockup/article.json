@@ -15,7 +15,7 @@
   },
   {
     "id": "research-cms",
-    "tag": "Node.js",
+    "tag": "Web Platform",
     "title": "Tìm hiểu về CMS - Hệ quản trị nội dung của trang Web",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"
@@ -29,7 +29,7 @@
   },
   {
     "id": "research-fts",
-    "tag": "Node.js",
+    "tag": "Engine",
     "title": "Tìm hiểu về khái niệm Full-text search",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"
@@ -43,21 +43,21 @@
   },
   {
     "id": "research-server-side-client-side-rendering",
-    "tag": "Node.js",
+    "tag": "Web Platform",
     "title": "Tìm hiểu về client-side-rendering, server-side-rendering",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"
   },
   {
     "id": "research-single-page-app",
-    "tag": "Node.js",
+    "tag": "Web Platform",
     "title": "Single Page Application là gì ???",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"
   },
   {
     "id": "research-type-orm",
-    "tag": "Node.js",
+    "tag": "ORM",
     "title": "Tìm hiểu tất tần tật về typeORM",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"
@@ -71,14 +71,14 @@
   },
   {
     "id": "research-web-server",
-    "tag": "Node.js",
+    "tag": "Web Platform",
     "title": "Tìm hiểu về Web server",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"
   },
   {
     "id": "research-webhook",
-    "tag": "Node.js",
+    "tag": "Web Platform",
     "title": "Tìm hiều về webhook",
     "short_content": "Hôm nay tôi sẽ giới thiệu cho mọi người về một loại database yêu thích của tôi",
     "created_at": "March 10, 2019"

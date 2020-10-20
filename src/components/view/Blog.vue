@@ -27,11 +27,17 @@ export default {
   data() {
     return {
       tags,
-      articles,
     };
   },
   mounted() {
-    console.log('---- Params: ',this.$route.params);
+    console.log('---- Params: ', this.$route.params);
+  },
+  computed: {
+    articles() {
+      const tag = this.$store.state.tag;
+      if (!tag) return articles;
+      return articles.filter((a) => a.tag === tag);
+    },
   },
   methods: {
     getTagByArticle(article) {
@@ -64,6 +70,5 @@ export default {
   font-family: 'Commissioner', sans-serif;
   border-bottom: 2px dotted black;
   cursor: pointer;
-
 }
 </style>

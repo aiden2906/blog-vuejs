@@ -13,7 +13,7 @@
             ></Tag>
           </div>
         </el-aside>
-        <el-container :style="{ width: '75%' }">
+        <el-container :style="{ width: '70%' }">
           <router-view />
         </el-container>
       </el-container>
@@ -35,6 +35,7 @@ export default {
   },
   methods: {
     handleChooseTag(e) {
+      this.$store.commit('CHANGE_TAG', e);
       this.$router.push(`/tags/${e}`);
     },
   },

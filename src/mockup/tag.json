@@ -53,5 +53,15 @@
     "name": "Web Platform",
     "backgroundColor": "#5b5ea6",
     "color": "white"
+  },
+  {
+    "name": "Engine",
+    "backgroundColor": "#282c34",
+    "color": "#61dafb"
+  },
+  {
+    "name": "ORM",
+    "backgroundColor": "#282c34",
+    "color": "#61dafb"
   }
 ]
